@@ -1,0 +1,6 @@
+1. cd .. (for back 1 file)
+2. == to compare if value same or not 
+   = is to declare something
+3. git add .
+git commit -m "your_comment"
+git push
